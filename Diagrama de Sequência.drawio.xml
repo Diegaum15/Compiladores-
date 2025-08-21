@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.1.1">
+  <diagram name="Página-1" id="6BiVdcpjRUayZW9oGoj-">
+    <mxGraphModel dx="1373" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_ytsOD_5OUv0m3675qcp-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="15" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-12" value="Realiza Login" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="_ytsOD_5OUv0m3675qcp-11" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="285" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-13" value="Retorna Login" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="360" as="targetPoint" />
+            <mxPoint x="120" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="315" y="310" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-15" value="Visualizar cardápio&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" target="_ytsOD_5OUv0m3675qcp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-16" value="Retorna Lista do Cardápio" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1" source="_ytsOD_5OUv0m3675qcp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-18" value="Gerencia Carrinho" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" target="_ytsOD_5OUv0m3675qcp-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="355" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-19" value="Atributos do Carrinho" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1" source="_ytsOD_5OUv0m3675qcp-17" target="_ytsOD_5OUv0m3675qcp-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-20" value="Usuário" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-27" value="Sistema&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-28" value="Cardápio&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-29" value="&lt;div&gt;Carrinho&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-30" value="Pagamento&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="710" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-32" value="Realiza Pagamento" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" target="_ytsOD_5OUv0m3675qcp-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="395" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ytsOD_5OUv0m3675qcp-33" value="Retorna a transação&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1" source="_ytsOD_5OUv0m3675qcp-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
